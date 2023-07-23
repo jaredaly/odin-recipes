@@ -1,2 +1,2 @@
 # odin-recipes
-basic website
+basic website with recipes will be using pure html

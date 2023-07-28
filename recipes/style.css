@@ -1,0 +1,25 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: darkgoldenrod;
+}
+h1 {
+    color: rgb(29, 29, 223);
+}
+
+div {
+    text-align: center;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
+
+.ulul,
+olol {
+    text-align: center;
+}
+
+.olol {
+    color: brown;
+}

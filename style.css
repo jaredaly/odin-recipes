@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgba(110, 20, 194, 0.719);
+}
+
+h1,
+h3 {
+    color: rgba(128, 27, 9, 0.836);
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+#ulid {
+    color: black;
+    text-align: left;
+}
+
+.cookbook {
+    width: 300px;
+    height: auto;
+}

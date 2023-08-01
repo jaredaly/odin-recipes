@@ -6,20 +6,105 @@ h1 {
     color: rgb(29, 29, 223);
 }
 
-div {
-    text-align: center;
-}
+
 
 img {
     width: 300px;
     height: auto;
 }
 
-.ulul,
-olol {
-    text-align: center;
+.one {
+    display: inline-block;
+    width: 340px;
+    height: 350px;
+    border: 2px solid;
+    border-color: black;
+    padding-left: 40px;
 }
 
-.olol {
-    color: brown;
+.two{
+    display: inline-block;
+    font-size: 20px;
+    color: black;
+    width: 350px;
+    height: 225px;
+    vertical-align: top;
+    border: 2px solid;
+    border-color: rgb(228, 16, 16);
+    margin-top: 0;
+    margin-right: auto;
+    margin-bottom: 0px;
+    padding-top: 125px;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+
+.three {
+    display: inline-block;
+    vertical-align: top;
+    border: 2px dotted;
+    border-color: rgba(206, 67, 12, 0.685);
+    padding: 15px
+}
+
+.four {
+    display:block;
+    border: 4px double;
+    border-color: rgba(155, 21, 189, 0.897);
+    background-color: rgb(110, 177, 236);
+}
+
+.steps{
+    display: block;
+    width: 55px;
+    height: 20px;
+    border: 2px solid;
+    border-color: darkslategray;
+    padding: 2px;
+    margin: auto;
+    margin-top: 8px;
+    background-color: white;
+}
+
+.steps1{
+    display: block;
+    width: 330px;
+    height: 20px;
+    border: 2px solid;
+    border-color: darkslategray;
+    padding: 2px;
+    margin: auto;
+    margin-top: 8px;
+    background-color: white;
+}
+
+.steps:hover{
+    background-color: red;
+}
+
+ol{
+    border: 2px solid;
+    border-color: black;
+    margin: 8px;
+    background-color: white;
+    padding: 8px;
+}
+
+ol li{
+    display: inline;
+}
+
+a {
+    width: 35px;
+    display: block;
+    border: 1px dotted;
+    border-color: blue;
+    padding: 2px;
+    text-decoration: none;
+    background-color: violet;
+}
+a:hover{
+    background-color: black;
+    color: white;
 }

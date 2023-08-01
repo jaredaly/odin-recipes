@@ -1,7 +1,28 @@
 body {
-    text-align: center;
     font-family: 'Times New Roman', Times, serif;
     background-color: rgba(110, 20, 194, 0.719);
+}
+
+.one {
+    display: inline-block;
+    width: auto;
+    height: auto;
+    padding: 8px;
+    margin: 10 px;
+    margin-right: 20px;
+    border: 2px solid;
+    border-color: white;
+    background-color: rgb(43, 216, 121);
+}
+
+
+.two {
+    display:inline-block;
+    border: 2px solid;
+    border-color: black; 
+    padding: 8px 20px 8px 8px;
+    background-color: rgb(231, 105, 21);
+    vertical-align: top;
 }
 
 h1,
